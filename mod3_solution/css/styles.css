@@ -1,0 +1,49 @@
+body {
+  font-size: 16px;
+  color: black;
+  text-align: center;
+}
+.navbar-default .navbar-brand p {
+  color: #131313;
+  font-weight: bold;
+}
+#header-nav {
+  background-color: #969292;
+  border-radius: 0;
+  border: 0;
+}
+h1 {
+  color: #131313;
+  font-weight: bold;
+}
+#nav-list {
+  margin-top: 10px;
+  background-color: white;
+  border: 3px solid black;
+  height: auto;
+}
+
+#nav-list li {
+  height: 60px;
+}
+#nav-list hr {
+  background-color: black;
+  height: 1px;
+}
+#chicken {
+  margin-bottom: 5px;
+}
+#beef {
+  margin-bottom: 5px;
+}
+#sushi {
+  
+}
+.conten {
+  background-color: #969292;
+  padding: 2px;
+}
+.conten p {
+  text-align: left;
+  padding-left: 5px;
+}
